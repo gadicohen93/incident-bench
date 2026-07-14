@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+*_err.txt
+run_out.txt
+canon_out.txt
